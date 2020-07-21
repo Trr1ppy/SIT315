@@ -66,6 +66,6 @@ void loop()
   // Otherwise don't sound the alarm
   else{
     Serial.println("Nothing detected");
-  	delay(100);
+  	delay(500);
   }
 }
